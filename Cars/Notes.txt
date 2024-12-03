@@ -1,0 +1,4 @@
+Para guardar imagenes de carros segmentadas
+
+
+python detect.py --source path_a_tu_imagen_o_video --classes 2 --save-crop --conf-thres 0.5
