@@ -2,3 +2,19 @@ Para guardar imagenes de carros segmentadas
 
 
 python detect.py --source path_a_tu_imagen_o_video --classes 2 --save-crop --conf-thres 0.5
+
+
+Carros: 
+
+Civic 2010
+Venture 1990
+R8 2020
+march 2017
+mustang 2010
+
+ 
+0 audi r8 2020
+1 Chevrolet Venture 1990
+2 Honda civic 2009
+3 Nissan March 2017
+4 Ford Mustang 2010

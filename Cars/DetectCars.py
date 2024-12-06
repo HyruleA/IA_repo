@@ -35,7 +35,7 @@ def process_images_with_yolo(input_folder, car, output_folder, conf_threshold=0.
     
 # Especifica las carpetas de entrada y salida
 
-car = "f150"
+car = "r82019"
 folder = "predataset"
 input_folder = folder+"/"+car
 # Llama a la función
