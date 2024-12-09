@@ -3,8 +3,8 @@ import tensorflow as tf
 import numpy as np
 
 # Directorios de entrada y salida
-input_dir = './DatasetCars/2'
-output_dir = './DataAug/2'
+input_dir = './DatasetCars/4'
+output_dir = './DataAug/4'
 
 # Crear carpeta de salida si no existe
 if not os.path.exists(output_dir):

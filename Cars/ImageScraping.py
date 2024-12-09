@@ -1,2 +1,2 @@
 from bing_image_downloader import downloader
-downloader.download('chevrolet venture 1993 exterior', limit=200,  output_dir='predataset/venture1993', adult_filter_off=True, force_replace=False, timeout=60, verbose=True)
+downloader.download('mustang 2011 exterior', limit=100,  output_dir='predataset/mustang2011', adult_filter_off=True, force_replace=False, timeout=60, verbose=True)

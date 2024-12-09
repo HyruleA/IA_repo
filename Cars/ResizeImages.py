@@ -25,8 +25,8 @@ def preprocess_images(input_folder, output_folder, size=(21, 28)):
     print("Preprocesamiento completo.")
 
 # Especifica las carpetas de entrada y salida
-input_folder = "./DataAug/2"
-output_folder = "./datasetRS/2"
+input_folder = "./DataAug/4"
+output_folder = "./dataset80RS/4"
 
 # Llama a la función
-preprocess_images(input_folder, output_folder, size=(21, 28))
+preprocess_images(input_folder, output_folder, size=(80, 80))
